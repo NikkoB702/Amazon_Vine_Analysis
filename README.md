@@ -8,6 +8,7 @@ The question was asked after the launch of Amazon Vine, is there a presence of b
 ##### Resources
 
 Data Source: [Amazon Review Dataset; US Grocery Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+
 Software: Google Colab, PySpark, AWS
 
 
